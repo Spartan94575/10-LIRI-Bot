@@ -1,0 +1,30 @@
+{
+  "name": "10-LIRI-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spartan94575/10-LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spartan94575/10-LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/Spartan94575/10-LIRI-Bot#readme",
+  "dependencies": {
+    "api": "^1.0.0",
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "omdb": "^0.8.0",
+    "request": "^2.88.0"
+  }
+}
